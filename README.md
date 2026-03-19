@@ -63,7 +63,10 @@ Tables:
 ### User Login
 ![Login](demoimages/user_login.png)
 
-### Restaurants
+### User Dashboard
+![User](demoimages/user_page.png)
+
+### Restaurants Page
 ![Restaurants](demoimages/restaurant_page.png)
 
 ### Add to Cart
@@ -84,16 +87,16 @@ Tables:
 ### Admin Dashboard
 ![Dashboard](demoimages/admin_dashboard.png)
 
-### Admin Orders
+### Manage Orders
 ![Orders](demoimages/admin_vieworders.png)
 
-### Admin Foods
+### Manage Restaurants
+![Restaurants](demoimages/admin_restaurantview.png)
+
+### Manage Foods
 ![Foods](demoimages/admin_foodview.png)
 
-### Admin Restaurants
-![RestaurantsAdmin](demoimages/admin_restaurantview.png)
-
-### Admin Users
+### Manage Users
 ![Users](demoimages/admin_viewusers.png)
 
 ## Conclusion
