@@ -1,0 +1,96 @@
+/*font import*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins', sans-serif;
+}
+
+/*background*/
+
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:
+linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+url("../images/food.jpg");
+background-size:cover;
+background-position:center;
+}
+
+/*form box*/
+
+.form-box{
+width:360px;
+background:white;
+padding:30px;
+border-radius:12px;
+box-shadow:0 6px 18px rgba(0,0,0,0.2);
+text-align:center;
+}
+
+/* title*/
+
+.form-box h2{
+margin-bottom:20px;
+color:#333;
+}
+
+/*input*/
+
+.form-box input{
+width:100%;
+padding:10px;
+margin:10px 0;
+border-radius:6px;
+border:1px solid #ccc;
+font-size:14px;
+}
+
+.form-box input:focus{
+outline:none;
+border-color:#1BA672;
+}
+
+/*button*/
+
+.btn{
+width:100%;
+padding:10px;
+background:#1976D2;
+color:white;
+border:none;
+border-radius:8px;
+cursor:pointer;
+font-size:15px;
+margin-top:10px;
+}
+
+.btn:hover{
+background:#1565C0;
+}
+
+/*login link*/
+
+.login-link{
+margin-top:15px;
+font-size:14px;
+color:#666;
+
+}
+
+.login-link a{
+color:#1BA672;
+text-decoration:none;
+font-weight:500;
+}
+
+.login-link a:hover{
+text-decoration:underline;
+}
+
