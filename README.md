@@ -99,7 +99,7 @@ Tables:
 ![Foods](admin_foodview_page.png)
 
 ###  5. Manage Restaurants
-![Restaurants](admin_restaurantview_page.png)
+![Restaurants](admin_restauantview_page.png)
 
 ###  6. Manage Users
 ![Users](admin_userview_page.png)
