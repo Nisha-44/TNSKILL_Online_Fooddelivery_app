@@ -43,7 +43,8 @@ Tables:
 - orders  
 - order_items  
 - admins
-- 
+
+  
 ## Features
 - User authentication (Register/Login)
 - Restaurant browsing
@@ -52,52 +53,56 @@ Tables:
 - Order history tracking
 - Admin panel for management
 
-## Screenshots
+  
+## 📸 Project Flow Screenshots
 
-### Home Page
-![Home Page](demoimages/home_page.png)
+### 1. Home Page
+![Home](home_page.png)
 
-### User Registration
-![User Register](demoimages/user_register.png)
+###  2. User Register
+![Register](user_register.png)
 
-### User Login
-![User Login](demoimages/user_login.png)
+###  3. User Login
+![Login](user_login.png)
 
-### User Dashboard
-![User Page](demoimages/user_page.png)
+###  4. Browse Restaurants
+![Restaurants](restaurant_page.png)
 
-### Restaurants Page
-![Restaurant Page](demoimages/restaurant_page.png)
+### 5. View Menu
+![Menu](menu_page.png)
 
-### Add to Cart
-![Add to Cart](demoimages/userfood_addcart.png)
+###  6. Place Order
+![Place Order](placeorder_page.png)
 
-### Cart Page
-![Cart Page](demoimages/user_cartpage.png)
+###  7. Order Success
+![Order Success](ordersuccess_page.png)
 
-### Order Success Page
-![Order Success](demoimages/order_successpage.png)
+###  8. My Orders
+![My Orders](myorders_page.png)
 
-### My Orders Page
-![My Orders](demoimages/user_myorderspage.png)
+###  9. User Home
+![User Home](user_homepage.png)
 
-### Admin Login
-![Admin Login](demoimages/admin_login.png)
 
-### Admin Dashboard
-![Admin Dashboard](demoimages/admin_dashboard.png)
+##  Admin Flow
 
-### Manage Orders
-![Admin Orders](demoimages/admin_vieworders.png)
+###  1. Admin Login
+![Admin Login](admin_login_page.png)
 
-### Manage Restaurants
-![Admin Restaurants](demoimages/admin_restaurantview.png)
+###  2. Admin Dashboard
+![Dashboard](admin_dashboard_page.png)
 
-### Manage Foods
-![Admin Foods](demoimages/admin_foodview.png)
+###  3. Manage Orders
+![Orders](admin_ordersview_page.png)
 
-### Manage Users
-![Admin Users](demoimages/admin_viewusers.png)
+###  4. Manage Foods
+![Foods](admin_foodview_page.png)
+
+###  5. Manage Restaurants
+![Restaurants](admin_restaurantview_page.png)
+
+###  6. Manage Users
+![Users](admin_userview_page.png)
 
 ## Conclusion
 FoodExpress is a complete online food ordering system with both user and admin functionalities. 
