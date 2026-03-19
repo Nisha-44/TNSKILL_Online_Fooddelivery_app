@@ -55,49 +55,49 @@ Tables:
 ## Screenshots
 
 ### Home Page
-![Home](demoimages/home_page.png)
+![Home Page](demoimages/home_page.png)
 
 ### User Registration
-![Register](demoimages/user_register.png)
+![User Register](demoimages/user_register.png)
 
 ### User Login
-![Login](demoimages/user_login.png)
+![User Login](demoimages/user_login.png)
 
 ### User Dashboard
-![User](demoimages/user_page.png)
+![User Page](demoimages/user_page.png)
 
 ### Restaurants Page
-![Restaurants](demoimages/restaurant_page.png)
+![Restaurant Page](demoimages/restaurant_page.png)
 
 ### Add to Cart
-![AddCart](demoimages/userfood_addcart.png)
+![Add to Cart](demoimages/userfood_addcart.png)
 
 ### Cart Page
-![Cart](demoimages/user_cartpage.png)
+![Cart Page](demoimages/user_cartpage.png)
 
-### Order Success
-![Order](demoimages/order_successpage.png)
+### Order Success Page
+![Order Success](demoimages/order_successpage.png)
 
-### My Orders
-![MyOrders](demoimages/user_myorderspage.png)
+### My Orders Page
+![My Orders](demoimages/user_myorderspage.png)
 
 ### Admin Login
-![AdminLogin](demoimages/admin_login.png)
+![Admin Login](demoimages/admin_login.png)
 
 ### Admin Dashboard
-![Dashboard](demoimages/admin_dashboard.png)
+![Admin Dashboard](demoimages/admin_dashboard.png)
 
 ### Manage Orders
-![Orders](demoimages/admin_vieworders.png)
+![Admin Orders](demoimages/admin_vieworders.png)
 
 ### Manage Restaurants
-![Restaurants](demoimages/admin_restaurantview.png)
+![Admin Restaurants](demoimages/admin_restaurantview.png)
 
 ### Manage Foods
-![Foods](demoimages/admin_foodview.png)
+![Admin Foods](demoimages/admin_foodview.png)
 
 ### Manage Users
-![Users](demoimages/admin_viewusers.png)
+![Admin Users](demoimages/admin_viewusers.png)
 
 ## Conclusion
 FoodExpress is a complete online food ordering system with both user and admin functionalities. 
